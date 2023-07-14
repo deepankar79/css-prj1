@@ -1,0 +1,16 @@
+.first {
+  display: flex;
+}
+.introm {
+  display: flex;
+}
+.second {
+  display: flex;
+  flex-direction: column;
+}
+.images {
+  display: flex;
+}
+.fourth {
+  display: flex;
+}
